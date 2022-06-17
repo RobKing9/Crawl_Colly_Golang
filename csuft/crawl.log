@@ -1,0 +1,7 @@
+[000001] 1 [     1 - request] map["url":"http://authserver.csuft.edu.cn/authserver/login?service=http://ehall.csuft.edu.cn/login"] (525.4µs)
+[000002] 1 [     1 - error] map["status":"" "url":"http://authserver.csuft.edu.cn/authserver/login?service=http://ehall.csuft.edu.cn/login"] (10.013557s)
+[000003] 1 [     2 - request] map["url":"http://authserver.csuft.edu.cn/authserver/login?service=http://ehall.csuft.edu.cn/login"] (10.01409s)
+[000004] 1 [     2 - response] map["status":"OK" "url":"http://authserver.csuft.edu.cn/authserver/login?service=http://ehall.csuft.edu.cn/login"] (10.3762391s)
+[000005] 1 [     2 - scraped] map["url":"http://authserver.csuft.edu.cn/authserver/login?service=http://ehall.csuft.edu.cn/login"] (10.3762391s)
+[000006] 2 [     1 - request] map["url":"http://ehall.csuft.edu.cn/new/index.html"] (10.3762391s)
+[000007] 2 [     1 - error] map["status":"" "url":"http://ehall.csuft.edu.cn/new/index.html"] (20.3777756s)
